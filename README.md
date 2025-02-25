@@ -1,15 +1,15 @@
 # laboratory-work-on-mathematical-analysis
-Составленная лабораторная работа на языке Python
+Python-based Laboratory Work on Mathematical Analysis
 
-Лабораторная работа по предмету математический анализ, в ходе которой предлагается решить задания на языке программирования Python. 
+This repository contains a completed laboratory assignment on Mathematical Analysis, implemented in Python. The assignment focuses on solving various problems using Python's programming capabilities.
 
-Темы, которые затрагиваются в данном проекте : 
+Topics covered in this project include:
 
- -  График функции в Sympy.
- -  Решение нелинейных уравнений в Sympy. Solve и solveset.
- -  Численное решение нелинейных уравнений: nsolve.
- -  Дифференцирование. Дифференцирование функции, заданной параметрически.
- -  Анализ функции. Построение графика в matplotlib.pyplot.
- -  Исследование функции с sympy.calculus.util и sympy.calculus.singularities.
+- Plotting functions using Sympy.
+- Solving nonlinear equations using Sympy's `solve` and `solveset` functions.
+- Numerical solution of nonlinear equations using `nsolve`.
+- Differentiation: differentiating functions, including those defined parametrically.
+- Function analysis: plotting graphs using `matplotlib.pyplot`.
+- Function analysis using `sympy.calculus.util` and `sympy.calculus.singularities`.
 
-Внутри проекта также присутствуют полезные ссылки и материалы, которые помогут выполнить поставленные задачи.
+The project also includes helpful links and resources to assist in completing the assigned tasks. [Optional: Add a link to the resources here]
